@@ -1,4 +1,4 @@
-# 🌍 Welcome to the Open Source Programming Club 👨‍💻👩‍💻
+# 🌍 Welcome to the Open Source Programming Club 👨‍💻
 
 ## 🚀 About Us  
 The **Open Source Programming Club** is a community-driven initiative uniting developers, hobbyists, and learners passionate about open-source software. Our mission is to provide a platform where anyone, regardless of experience level, can learn, contribute, and grow in the world of open source. We believe in collaboration, sharing knowledge, and building software that benefits everyone.
