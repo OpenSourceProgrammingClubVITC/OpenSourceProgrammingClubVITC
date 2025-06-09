@@ -1,39 +1,23 @@
-# 🌍 Welcome to the Open Source Programming Club - VIT Chennai👨‍💻
+![image](https://github.com/OpenSourceProgrammingClubVITC/OpenSourceProgrammingClubVITC/blob/main/banner.png)
 
-## 🚀 About Us  
-The Open Source Programming Club at VIT Chennai is a community-driven initiative uniting developers, hobbyists, and learners passionate about open-source software. Our mission is to provide a platform where anyone, regardless of experience level, can learn, contribute, and grow in the world of open source. We believe in collaboration, sharing knowledge, and building software that benefits everyone.
+<div align="center"># Open Source Programming Club (OSPC) – VIT Chennai</div>
 
-## 💡 What We Do  
-We focus on several key areas to ensure a fulfilling and engaging experience:
+**OSPC** is a community of developers, designers, and technology enthusiasts dedicated to building impactful, open-source-driven solutions.
 
-### Open Source Projects  
-- Contribute to web apps, AI/ML, mobile apps, APIs, tools, and libraries.  
-- Beginner-friendly projects for newcomers, and advanced projects for seasoned coders.  
-- Contributions can include code, documentation, design assets, and more.
+## Mission
 
-### Workshops and Talks  
-- Hands-on workshops on Git, GitHub, and open-source contributions.  
-- Guest speakers from VIT Chennai and industry professionals share insights into open-source development.  
-- Members can lead talks and showcase their work.
+We are committed to helping students grow through hands-on development, collaboration, and contribution to real-world open-source projects. Our aim is to empower members to move beyond theory and engage in practical work that drives innovation.
 
-### Hackathons and Competitions  
-- Participate in local, national, and global hackathons, focusing on open-source solutions.  
-- Organize in-club hackathons for team collaboration under tight deadlines.  
+## Focus Areas
 
-### Mentorship and Guidance  
-- Experienced members mentor new contributors in navigating GitHub, submitting pull requests, and debugging code.  
-- Beginners are paired with experienced developers for quicker learning and meaningful contributions.
+OSPC is structured around specialized departments, each focusing on specific domains:
 
-## 🌱 Beginner-Friendly Environment  
-We provide resources and a support system to ensure beginners thrive:
+- **AI/ML** – Applied machine learning and AI-driven tools
+- **Blockchain** – Building Decentralized and web3 applications
+- **Cybersecurity** – Offensive/defensive security, CTFs, and tooling
+- **Development** – Full-stack and software engineering projects
+- **Open Source** – Contribution to external repositories and standards
+- **Game Development** – Game design, mechanics, and interactive experiences
+- **Robotics & IoT** – Hardware-driven development and automation
 
-- **Learning Resources**: Comprehensive guides, tutorials, and a resource hub for open-source workflows.  
-- **Peer-to-Peer Mentoring**: New members are paired with mentors to guide them through their first contributions.  
-- **Practice Projects**: Beginner-friendly projects for skill sharpening and collaborative learning.
-
-## 🌟 Our Mission  
-We aim to foster collaboration, inclusivity, and innovation within the open-source ecosystem. Our mission is to:  
-
-- **Build and Share**: Develop tools and applications for the global community, and share knowledge through documentation and collaborative coding.  
-- **Contribute to the World**: Solve real-world problems through code, one pull request at a time.  
-- **Grow Together**: As a club based in VIT Chennai, we grow not just as coders but as a community, helping each other succeed and make meaningful contributions to the tech world.
+Feel free to reach out to us for open source collaborations.
