@@ -1,6 +1,6 @@
 ![image](https://github.com/OpenSourceProgrammingClubVITC/OpenSourceProgrammingClubVITC/blob/main/banner.png)
 
-<div align="center"># Open Source Programming Club (OSPC) – VIT Chennai</div>
+<div align="center"><h1></h1>Open Source Programming Club (OSPC) – VIT Chennai</h1></div>
 
 **OSPC** is a community of developers, designers, and technology enthusiasts dedicated to building impactful, open-source-driven solutions.
 
